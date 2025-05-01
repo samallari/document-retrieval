@@ -6,3 +6,5 @@ datasets
 sentence-transformers
 scikit-learn
 rank-bm25
+hf-xet
+ranx
